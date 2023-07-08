@@ -27,6 +27,7 @@
 ## Projects
 - [Hand Up Application](https://github.com/Team-Hands-Up/hands-up-server) (2022.12 ~ 2023.05)
 
+<!--
 <br>
 
 ![DongchannN's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongchannN&theme=transparent&show_icons=true)
